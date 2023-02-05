@@ -1,0 +1,15 @@
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/obj/Debug/net6.0/Example3.csproj.AssemblyReference.cache
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/obj/Debug/net6.0/Example3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/obj/Debug/net6.0/Example3.AssemblyInfoInputs.cache
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/obj/Debug/net6.0/Example3.AssemblyInfo.cs
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/obj/Debug/net6.0/Example3.csproj.CoreCompileInputs.cache
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/bin/Debug/net6.0/Example3
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/bin/Debug/net6.0/Example3.deps.json
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/bin/Debug/net6.0/Example3.runtimeconfig.json
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/bin/Debug/net6.0/Example3.dll
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/bin/Debug/net6.0/Example3.pdb
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/obj/Debug/net6.0/Example3.dll
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/obj/Debug/net6.0/refint/Example3.dll
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/obj/Debug/net6.0/Example3.pdb
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/obj/Debug/net6.0/Example3.genruntimeconfig.cache
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/Seminar2/Example3/obj/Debug/net6.0/ref/Example3.dll
