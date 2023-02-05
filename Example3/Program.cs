@@ -11,10 +11,10 @@ int number2 = Convert.ToInt32(Console.ReadLine());
 
 if (number1%number2 == 0)
 {
-    System.Console.Write($"{number1}, {number2}, кратно");
+    System.Console.Write($"{number1}, {number2}, кратно ");
 }
 else if (number1%number2 != 0)
 {
     int Ostatok = number1/number2;
-    System.Console.Write($"{number1}, {number2} не кратно,  остаток{Ostatok} ");
+    System.Console.Write($"{number1}, {number2} не кратно,  остаток {Ostatok} ");
 }
